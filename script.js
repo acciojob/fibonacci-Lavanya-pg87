@@ -5,5 +5,4 @@ function fibonacci(num) {
     }
     return fib[num];
 }
-console.log('fib[num]');
 module.exports = fibonacci;
